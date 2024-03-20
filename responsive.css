@@ -1,0 +1,191 @@
+@media screen and (max-width: 1024px) {
+    .box {
+        padding: 15px;
+    }
+
+    .purple .image2 {
+        background: transparent;
+    }
+
+    .purple h1 {
+        margin-top: -13%;
+    }
+
+    .purple p {
+        font-size: 13px;
+    }
+
+
+
+    .grey1 h1 {
+        margin-left: 60px;
+        margin-top: -50px;
+    }
+
+    .grey1 h2 {
+        margin-left: 60px;
+    }
+
+    .grey1 p {
+        font-size: 13px;
+    }
+
+    .white1 {
+        margin-top: 28%;
+    }
+
+    .white1 h1 {
+        margin-left: 30%;
+        margin-top: -25%;
+    }
+
+    .white1 h2 {
+        margin-left: 30%;
+    }
+
+    .white1 p {
+        font-size: 13px;
+    }
+
+
+
+    .white2 {
+        margin-top: -25%;
+        height: 42%;
+    }
+
+    .white2 h1 {
+        margin-left: 30%;
+        margin-top: -25%;
+    }
+
+    .white2 h2 {
+        margin-left: 30%;
+    }
+
+    .white2 p {
+        font-size: 13px;
+    }
+
+    .grey2 {
+        margin-top: -25%;
+        height: 42%;
+    }
+
+    .grey2 h1 {
+        margin-left: 15%;
+        margin-top: -13%;
+    }
+
+    .grey2 h2 {
+        margin-left: 15%;
+    }
+
+    .grey2 p {
+        font-size: 13px;
+    }
+}
+
+
+
+@media screen and (max-width: 480px) {
+    .container {
+        display: block;
+        padding: 30px;
+    }
+
+    .purple {
+        margin-top: -5%;
+        width: 70%;
+        height: 60%;
+    }
+
+    .purple .image1 {
+        margin-top: 5%;
+    }
+
+    .purple .image2 {
+        margin-top: -30%;
+        margin-left: 67%;
+    }
+
+    .purple h1 {
+        margin-left: 25%;
+        margin-top: -25%;
+    }
+
+    .purple h2 {
+        margin-left: 25%;
+    }
+
+
+
+    .grey1 {
+        margin-top: 5%;
+        width: 70%;
+        height: 45%;
+    }
+
+    .grey1 img {
+        margin-top: 8%;
+    }
+
+
+
+    .white1 {
+        margin-top: 7%;
+        width: 70%;
+        height: 75%;
+    }
+
+    .white1 img {
+        margin-top: 5%;
+    }
+
+    .white1 h1 {
+        margin-top: -17%;
+        margin-left: 20%;
+    }
+
+    .white1 h2 {
+        margin-left: 20%;
+    }
+
+
+
+    .white2 {
+        margin-top: 7%;
+        width: 70%;
+        height: 35%;
+    }
+
+    .white2 img {
+        margin-top: 3%;
+    }
+
+    .white2 h1 {
+        margin-left: 23%;
+        margin-top: -17%;
+    }
+
+    .white2 h2 {
+        margin-left: 23%;
+    }
+
+
+
+    .grey2 {
+        margin-top: 7%;
+        width: 70%;
+        height: 55%;
+    }
+
+    .grey2 h1 {
+        margin-top: -17%;
+        margin-left: 23%;
+    }
+
+    .grey2 h2 {
+        margin-left: 23%;
+    }
+}
